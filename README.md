@@ -1,4 +1,4 @@
-<img src="https://github.com/Theoistic/Theoistic/raw/master/ProfileBanner.jpg" style="border: unset !important" >
+<img src="https://github.com/Theoistic/Theoistic/raw/master/GHBanner.png" style="border: unset !important" >
 
 
 ### Hi there 👋
