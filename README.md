@@ -3,9 +3,7 @@
 
 ### Hi there 👋
 
-I am coming up on 18 years of professional experience.
-
-Languages I've used and still use include: C# .Net, Delphi, Python, Assembler, Visual Basic, C++, C, JavaScript, HTML5, CSS3, ASP, PHP, SQL & More.
+With almost 18 years of professional experience, I've had the opportunity to work with a wide variety of programming languages, including C# .Net, Delphi, Python, Assembly, Visual Basic, C++, C, JavaScript, HTML5, CSS3, ASP, PHP, SQL, and more.
 
 I've always had a special love for languages and cultures i come from the Faroe Islands and speak natively English, Danish & Faroese, other languages i speak include Swedish and Norwegian,
 and currently learning Japanese & French
@@ -17,7 +15,7 @@ Researching Machine Learning Algorythms and Network technologies, with a special
 Honorable projects include being assigned as the Architect and Lead Software Engineer, responsible for setting up and handling the national IT infrastructure of the Covid-19 pandemic, creating the national Covid Test Centers and Vaccination Centers, along with the Faroese EU DCC (European Union's Digital Corona Certificate) implementation. (aka KoronaPass)
 
 - 🔭 I’m currently working on EU DCC & AI technologies
-- 🌱 I’m currently learning French, Japanese and Quantum Gravity 
+- 🌱 I’m currently learning French, Japanese and Quantum Field Theory 
 - 📫 How to reach me: theo@theoistic.com (ps. check out my blog) https://theoistic.com
 - ⚡ Fun fact: Moons can have moons, they are called "moon moons"
 
