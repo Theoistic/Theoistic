@@ -4,7 +4,7 @@ subtitle: "A software engineer of twenty years, now working at the edge of AI, l
 name: "Theodor Solbjorg"
 role: "Software Engineer"
 intro: "I've been building software since 2006 and working with AI since 2013. This blog is where I think out loud about the systems I'm building — model architectures, generative workflows, and the tooling around them."
-photo: ""
+photo: "assets/me.jpg"
 ---
 I'm Theodor Solbjorg — a software engineer with more than twenty years behind the keyboard. I started my software journey in 2006, began working seriously with AI in 2013, and I've spent the years since chasing the same question from different angles: how do we build systems that are both genuinely capable and genuinely understandable?
 

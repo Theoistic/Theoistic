@@ -114,8 +114,25 @@ will show a card whose article fails to load).
 | `date`        | `YYYY-MM-DD`. Controls sort order and the displayed date.                    |
 | `readingTime` | Free text, e.g. `"5 min read"`.                                             |
 | `color`       | Card tint: `blue`, `green`, `teal`, `amber`, `violet`, or `rose`.            |
-| `image`       | Optional cover photo (e.g. `assets/my-post.jpg`). Omit for the colour tint.  |
+| `image`       | Optional cover photo (e.g. `assets/my-post.jpg`). Omit to use `assets/default-image.jpg`. |
 | `featured`    | `true` pins it to the large featured slot. Use it on at most one post.       |
+
+---
+
+## Links you can share
+
+Every page and article has its own URL via a hash route, so you can link straight to it:
+
+| Page       | URL                                    |
+|------------|----------------------------------------|
+| Home       | `https://theoistic.com/`               |
+| About      | `https://theoistic.com/#/about`        |
+| An article | `https://theoistic.com/#/post/<slug>`  |
+
+`<slug>` is the post's filename without `.md` (e.g. `greetings` → `/#/post/greetings`).
+These links survive refresh and browser back/forward, and work on GitHub Pages with no
+extra configuration (no `404.html` redirect trick needed). An unknown slug quietly falls
+back to the home page.
 
 ---
 
