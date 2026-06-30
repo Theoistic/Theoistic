@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "greetings",
+    "title": "Greetings",
+    "excerpt": "Hello — I'm Theodor Solbjorg. Twenty years of building software, a decade-plus working with AI, and a new place to think out loud.",
+    "author": "Theodor Solbjorg",
+    "authorRole": "Software Engineer",
+    "category": "Welcome",
+    "date": "2026-06-30",
+    "readingTime": "3 min read",
+    "color": "blue",
+    "featured": true,
+    "image": ""
+  }
+]

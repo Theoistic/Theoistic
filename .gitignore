@@ -1,0 +1,11 @@
+# Local Claude Code / preview tooling
+.claude/
+
+# Design-tool export bundle (kept locally, not part of the published site)
+Theoistic markdown blog CMS.zip
+_design_extract/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+node_modules/
