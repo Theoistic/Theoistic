@@ -1,5 +1,5 @@
 ---
-title: "About Theodor Solbjorg"
+title: "Theodor Solbjorg"
 subtitle: "A software engineer of twenty years, now working at the edge of AI, language models, and dense information systems."
 name: "Theodor Solbjorg"
 role: "Software Engineer"
